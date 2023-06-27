@@ -28,7 +28,7 @@
 
 @article{roman2023gpt4all,
 
-  title={gpt4all-api-exploit-for-window10},
+  title={Scientific-statistical-map},
 
   author={新青年roman},
 
